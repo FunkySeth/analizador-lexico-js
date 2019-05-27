@@ -1,0 +1,9 @@
+index.html carga los scripts y muestra la pagina inicial
+
+global.css es el estilo usado en la pagina web
+
+main.js toma el codigo ingresado y devuelve el analisis
+
+parse.js es la estructura que deben cumplir los codigos ingresados para ser analizados
+
+tokens.js es el analizador lexico que produce el array de los tokens para ser analizado
